@@ -1,0 +1,9 @@
+LICENSE.txt
+MANIFEST.in
+setup.cfg
+setup.py
+marketmanipulator.egg-info/PKG-INFO
+marketmanipulator.egg-info/SOURCES.txt
+marketmanipulator.egg-info/dependency_links.txt
+marketmanipulator.egg-info/entry_points.txt
+marketmanipulator.egg-info/top_level.txt
