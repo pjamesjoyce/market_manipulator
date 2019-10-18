@@ -13,7 +13,7 @@ pip install https://github.com/pjamesjoyce/market_manipulator/zipball/master
 ## Preparing the external data
 
 Each transforming process in the ecoinvent database is identified by a universally unique identifier.
-These can be found in the [activity overview](http://www.ecoinvent.org/support/documents-and-files/information-on-ecoinvent-3/information-on-ecoinvent-3.html) spreadsheet available from the econinvent website.
+These can be found in the [activity overview](http://www.ecoinvent.org/support/documents-and-files/information-on-ecoinvent-3/information-on-ecoinvent-3.html) spreadsheet available from the ecoinvent website.
 
 The file used to manipulate the markets consists of two columns, one for uuid, and one for the new production volume.
 
